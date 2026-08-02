@@ -36,7 +36,7 @@ Despite containing only **6.42 million parameters**, SGCA-UNet achieves **state-
 ## 🏗️ Model Architecture
 
 <p align="center">
-  <img src="assets/sgca_unet_architecture.png" alt="SGCA-UNet Architecture" width="750"/>
+  <img src="assets/sgca_unet_architecture.pdf" alt="SGCA-UNet Architecture" width="750"/>
 </p>
 
 The proposed architecture consists of:
@@ -71,7 +71,7 @@ The proposed SGCA module bridges **semantic knowledge** and **geometric structur
 - Dynamically balances multimodal information during feature fusion
 
 <p align="center">
-  <img src="assets/sgca_module.png" alt="SGCA Module" width="700"/>
+  <img src="assets/sgca_module.pdf" alt="SGCA Module" width="700"/>
 </p>
 
 ---
@@ -135,7 +135,7 @@ The proposed framework is evaluated on three challenging medical imaging benchma
 ## 📊 Qualitative Results
 
 <p align="center">
-  <img src="assets/qualitative_results.png" width="800"/>
+  <img src="assets/gradcam_best_worst.png" width="800"/>
 </p>
 
 The proposed SGCA-UNet produces highly accurate lesion boundaries while simultaneously predicting disease classes, demonstrating superior localization and classification consistency across multiple datasets.
