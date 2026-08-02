@@ -36,7 +36,7 @@ Despite containing only **6.42 million parameters**, SGCA-UNet achieves **state-
 ## 🏗️ Model Architecture
 
 <p align="center">
-  <img src="assets/sgca_unet_architecture.pdf" alt="SGCA-UNet Architecture" width="750"/>
+  <img src="assets/sgca_unet_architecture.png" alt="SGCA-UNet Architecture" width="750"/>
 </p>
 
 The proposed architecture consists of:
@@ -71,7 +71,7 @@ The proposed SGCA module bridges **semantic knowledge** and **geometric structur
 - Dynamically balances multimodal information during feature fusion
 
 <p align="center">
-  <img src="assets/sgca_module.pdf" alt="SGCA Module" width="700"/>
+  <img src="assets/sgca_module.png" alt="SGCA Module" width="700"/>
 </p>
 
 ---
